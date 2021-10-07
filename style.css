@@ -3,7 +3,7 @@ body {
     color: white;
     margin: 0px;
     padding: 0px;
-    background: url("https://i.ibb.co/r4JG20r/bg.jpg") no-repeat;
+    background: url("/static/bg.jpg") no-repeat;
 }
 
 .left {
